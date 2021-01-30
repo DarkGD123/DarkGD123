@@ -1,4 +1,8 @@
-Hello my name is DarkGD123 `yeah name sounds dumb`
+Hello my name is DarkGD123 
+`yeah name sounds dumb`
+
+## I'm a Geometry Dash Player & Creator 
+I'm always active at GDPS Free Hosting By MathieuAR
 
 I mostly do coding right now since staying at home is pain.
 
@@ -6,7 +10,7 @@ I mostly do coding right now since staying at home is pain.
 
 Im still learning codes that i haven't know yet.
 
-Not really my main languages
+Not really my main languages:
 
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> `really hard but worth to learn`
 
@@ -18,5 +22,5 @@ Not really my main languages
 
 
 Contact me on:
-- [Discord](https://discord.com/invite/rickroll) `Yeet#2560`
+- <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> `Yeet#2560`
 
