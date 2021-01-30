@@ -6,6 +6,8 @@ I mostly do coding right now since staying at home is pain.
 
 Im still learning codes that i haven't know yet.
 
+Not really my main languages
+
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> `really hard but worth to learn`
 
 - <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> `bruh i suck`
@@ -16,5 +18,5 @@ Im still learning codes that i haven't know yet.
 
 
 Contact me on:
-- <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  `Yeet#2560`
+- [Discord](https://discord.com/invite/rickroll) `Yeet#2560`
 
