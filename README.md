@@ -22,7 +22,7 @@ Not really my main languages:
 
 
 Contact me on:
-- <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> `Yeet#2560`
+- <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> `yeet.in#2560`
 
 - [<img alt="Discord" src="https://img.shields.io/badge/GDPS Free Hosting%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/9dVyX5D)
 
