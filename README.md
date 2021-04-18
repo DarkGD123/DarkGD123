@@ -2,7 +2,7 @@ Hello my name is DarkGD123
 `yeah name sounds dumb`
 
 ~~## I'm a Geometry Dash Player & Creator 
-I'm not active at GDPS Free Hosting By MathieuAR~~
+I'm not active at GDPS Free Hosting By MathieuAR~~ not active much cuz of skool
 
 I mostly do coding right now since staying at home is pain.
 
@@ -22,7 +22,7 @@ Not really my main languages:
 
 
 Contact me on:
-- <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> `ammogus#99`
+- Discord - GitYeet#2560
 
 - [<img alt="Discord" src="https://img.shields.io/badge/GDPS Free Hosting%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/9dVyX5D)
 
