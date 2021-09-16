@@ -28,4 +28,4 @@ Contact me on:
 
 ![DarkGD123 GitHub stats](https://github-readme-stats.vercel.app/api?username=darkgd123&show_icons=true&theme=nightowl)
 
-![https://www.goldenclix.com/?ref=Yanato](http://www.goldenclix.com/images/banner3.png)
+[click me and register](https://www.goldenclix.com/?ref=Yanato)
