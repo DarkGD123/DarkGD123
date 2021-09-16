@@ -27,3 +27,5 @@ Contact me on:
 - [<img alt="Discord" src="https://img.shields.io/badge/GDPS Free Hosting%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/9dVyX5D)
 
 ![DarkGD123 GitHub stats](https://github-readme-stats.vercel.app/api?username=darkgd123&show_icons=true&theme=nightowl)
+
+![https://www.goldenclix.com/?ref=Yanato](http://www.goldenclix.com/images/banner3.png)
